@@ -1,13 +1,10 @@
 ### Description
-This repository contains the data analysis for the paper: "*Building a Dataset on Science and Technology Parks for Artificial Intelligence: Methodology and Spanish Case Study*"
-
+This repository contains the data analysis for the paper: "Building a Dataset on Science and Technology Parks for Artificial Intelligence: Methodology and Spanish Case Study"
 
 #### Descriptive analysis: General situation of Spanish STPs
-
-This analysis is associated with SO1 and provides singular information about STPs in Spain given the resources and the descriptive techniques presented in section 3. It will also give essential information to be used in the machine learning for the data analysis.
-
-A Universe of forty-nine (n=49) Spanish STPs is considered. General statistics references with each core feature, grouped by STPs (all), SP type, TP type and HP type has been obtained and are presented in Tables 15, 16, 17 and 18.
-
+This analysis is associated with SO1 and provides singular information about STPs in Spain given the resources and the descriptive techniques presented in section 3. It will also give essential information to be used in machine learning for data analysis.
+A Universe of forty-nine (n=49) Spanish STPs is considered. General statistics references with each core feature, grouped by STPs (all), SP type, TP type, and HP type have been obtained and are presented in Tables 15, 16, 17, and 18.
+Table 15. Statistics references for the core features of STPs
 
 
 Table 15. Statistics references for the core features of STPs
@@ -33,3 +30,7 @@ Table 15. Statistics references for the core features of STPs
 |     Fe19. Innovative profile 2       |     37/48        |     0,17         |     0,28         |     1,25       |     0          |
 |     Fe20. Patents ratio 1            |     47/48        |     0,08         |     0,12         |     0,46       |     0          |
 |     Fe21. Patents ratio 2            |     47/48        |     0,05         |     0,08         |     0,3        |     0          |
+
+
+
+
