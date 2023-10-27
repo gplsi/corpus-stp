@@ -1,0 +1,21 @@
+﻿ Core feature,count,mean,std,max,min
+Fe02. STP Age,29/29,"19,69","7,55",34,4
+Fe03. STP Size,29/29,"887886,07","934024,25",3750734,2000
+Fe04. Companies,29/29,"146,1","156,41",639,17
+Fe05. Turnover,26/29,"760,31","890,41","3508,79","2,04"
+Fe06. Employment,29/29,"3932,3","4999,58",20270,68
+Fe07. International companies,29/29,"12,9","17,95",75,0
+Fe08. Incubated companies,28/28,"16,21","27,47",143,0
+Fe09. Average company size 1,29/29,"22,76","15,77","61,67",4
+Fe10. Average company size 2,26/29,"4,12","3,54","12,95","0,04"
+Fe11. Internationalisation,29/29,"0,09","0,07","0,29",0
+Fe12. Productivity,26/29,"0,2","0,16","0,58","0,01"
+Fe13. Incubation ratio,28/28,"0,12","0,11","0,42",0
+Fe14. Employment R&D,29/29,"733,1","808,02",2975,0
+Fe15. Investment R&D,24/29,47,"74,41","326,01","0,56"
+Fe16. Filed patents,28/29,"17,54","38,56",192,0
+Fe17. Granted patents,28/29,"13,82","37,15",192,0
+Fe18. Innovative profile 1,29/29,"0,3","0,29","1,1",0
+Fe19. Innovative profile 2,22/29,"0,08","0,11","0,44",0
+Fe20. Patents ratio 1,28/29,"0,09","0,13","0,46",0
+Fe21. Patents ratio 2,28/29,"0,06","0,08","0,3",0
