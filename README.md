@@ -1,5 +1,5 @@
 ### Description
-This repository contains the data analysis for the paper: "*Building a Dataset on Science and Technology Parks for Artificial Intelligence: Methodology and Spanish Case Study*"
+This repository contains the data analysis for the paper: "*Multidimensional data analysis for enhancing in-depth knowledge on the characteristics of Science and Technology Parks*"
 
 
 #### Descriptive analysis: General situation of Spanish STPs
